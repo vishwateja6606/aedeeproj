@@ -1,0 +1,402 @@
+.group988741-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.group988741-group988741 {
+  width: 1440px;
+  height: 986.0003051757812px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.group988741-blackminimalhalftoneinwhitebackground1 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 800px;
+  position: absolute;
+}
+.group988741-rectangle647 {
+  top: 466.000244140625px;
+  left: 0px;
+  width: 1440px;
+  height: 387px;
+  position: absolute;
+}
+.group988741-group988661 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.group988741-line16 {
+  top: 80px;
+  left: 112px;
+  width: 1216px;
+  height: 1px;
+  position: absolute;
+}
+.group988741-credenza-logo-final-horizantal-colour {
+  top: 18px;
+  left: 112px;
+  width: 169px;
+  height: 44px;
+  position: absolute;
+}
+.group988741-frame1 {
+  gap: 32px;
+  top: 31px;
+  left: 395px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.group988741-spanmenutext {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group988741-text {
+  color: rgba(56, 180, 231, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: IBM Plex Sans;
+  font-weight: 700;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group988741-spanmenutext1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group988741-text02 {
+  color: rgba(51, 51, 153, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group988741-spanmenutext2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group988741-text04 {
+  color: rgba(51, 51, 153, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group988741-spanmenutext3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group988741-text06 {
+  color: rgba(51, 51, 153, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group988741-spanmenutext4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group988741-text08 {
+  color: rgba(51, 51, 153, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group988741-link {
+  top: 18px;
+  left: 1198px;
+  height: 44px;
+  display: flex;
+  padding: 15px 25px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(51, 51, 153, 1);
+}
+.group988741-spanfusionbuttontext {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+}
+.group988741-text10 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: right;
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group988741-frame3 {
+  gap: 25px;
+  top: 175px;
+  left: 342.5px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+}
+.group988741-frame2 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.group988741-text12 {
+  color: rgba(51, 51, 153, 1);
+  height: auto;
+  font-size: 44px;
+  font-style: Bold;
+  text-align: center;
+  font-family: IBM Plex Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group988741-text13 {
+  color: rgba(51, 51, 153, 1);
+}
+.group988741-text15 {
+  color: rgba(51, 51, 51, 1);
+  width: 656px;
+  height: auto;
+  font-size: 24px;
+  font-style: Light;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: 35px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group988741-frame988662 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.group988741-frame9886621 {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+}
+.group988741-link1 {
+  width: 335px;
+  height: 54px;
+  display: flex;
+  padding: 20px 34px 20px 35px;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(168, 168, 168, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.group988741-spanfusionbuttontext1 {
+  width: 289px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.group988741-text17 {
+  color: rgba(102, 112, 133, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group988741-link2 {
+  width: 140px;
+  height: 54px;
+  display: flex;
+  padding: 23px 34.410003662109375px 23px 35px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(39, 56, 150, 1);
+}
+.group988741-spanfusionbuttontext2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.group988741-text19 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: IBM Plex Sans;
+  font-weight: 500;
+  line-height: 20.399999618530273px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group988741-text21 {
+  color: rgba(102, 112, 133, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group988741-text22 {
+  text-decoration: NONE;
+}
+.group988741-text23 {
+  text-decoration: UNDERLINE;
+}
+.group988741-group988742 {
+  top: 466px;
+  left: 111.99951171875px;
+  width: 1216.00048828125px;
+  height: 520.000244140625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.group988741-image127 {
+  top: 0px;
+  left: 1216.00048828125px;
+  width: 1216px;
+  height: 520px;
+  position: absolute;
+  border-radius: 12px;
+}
+.group988741-rectangle15 {
+  top: 280.000244140625px;
+  left: 0px;
+  width: 1216px;
+  height: 240px;
+  position: absolute;
+  border-radius: 0 0 12px 12px;
+}
+.group988741-group988734 {
+  top: 498.00048828125px;
+  left: 512.00048828125px;
+  width: 192px;
+  height: 6px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.group988741-rectangle3463208 {
+  top: 0px;
+  left: 31px;
+  width: 94px;
+  height: 6px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 3px;
+}
+.group988741-rectangle3463209 {
+  top: 0px;
+  left: 139px;
+  width: 22px;
+  height: 6px;
+  opacity: 0.70;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 3px;
+}
+.group988741-rectangle3463210 {
+  top: 0px;
+  left: 170px;
+  width: 22px;
+  height: 6px;
+  opacity: 0.70;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 3px;
+}
+.group988741-rectangle3463211 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 6px;
+  opacity: 0.70;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 3px;
+}
+.group988741-vector {
+  top: 377px;
+  left: 991.1018676757812px;
+  width: 168px;
+  height: 137px;
+  position: absolute;
+}
